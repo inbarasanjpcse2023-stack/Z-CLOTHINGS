@@ -152,7 +152,7 @@ This project demonstrates:
 
 GitHub: https://github.com/inbarasanjpcse2023-stack
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/inbarasan-jp
 
 ---
 
